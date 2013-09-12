@@ -185,6 +185,26 @@
 				RelativePath=".\TestServer.cpp"
 				>
 			</File>
+			<Filter
+				Name="TcpServiceCpp"
+				>
+				<File
+					RelativePath=".\TcpManager.cpp"
+					>
+				</File>
+			</Filter>
+			<Filter
+				Name="ProtocolCpp"
+				>
+				<File
+					RelativePath=".\ProtocolBase.cpp"
+					>
+				</File>
+				<File
+					RelativePath=".\ProtocolManager.cpp"
+					>
+				</File>
+			</Filter>
 		</Filter>
 		<Filter
 			Name="Header Files"
@@ -203,6 +223,26 @@
 				RelativePath=".\TestServer.h"
 				>
 			</File>
+			<Filter
+				Name="TcpService"
+				>
+				<File
+					RelativePath=".\TcpManager.h"
+					>
+				</File>
+			</Filter>
+			<Filter
+				Name="Protocol"
+				>
+				<File
+					RelativePath=".\ProtocolBase.h"
+					>
+				</File>
+				<File
+					RelativePath=".\ProtocolManager.h"
+					>
+				</File>
+			</Filter>
 		</Filter>
 		<Filter
 			Name="Resource Files"
