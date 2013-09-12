@@ -1,4 +1,4 @@
 Game001
 =======
 
-majong game
+this is a majong game
