@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameServerMain", "GameServerMain\GameServerMain.vcproj", "{1ABE9676-A906-46B5-9106-72CF29B83F9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ABE9676-A906-46B5-9106-72CF29B83F9A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1ABE9676-A906-46B5-9106-72CF29B83F9A}.Debug|Win32.Build.0 = Debug|Win32
+		{1ABE9676-A906-46B5-9106-72CF29B83F9A}.Release|Win32.ActiveCfg = Release|Win32
+		{1ABE9676-A906-46B5-9106-72CF29B83F9A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
